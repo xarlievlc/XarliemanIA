@@ -1,2 +1,2 @@
 # XarliemanIA
-web cacniones con IA
+web canciones con IA
